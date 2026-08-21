@@ -1,15 +1,27 @@
-.bg-color {
-    background-color: rgb(250, 182, 212);
+h3 {
+    color: chartreuse
 }
 
-.mt {
-    margin-top: 35px;
+.container {
+    color: brown
 }
 
-.card-height {
-    height: 360px;
+#container-id {
+    color: darkblue;
+    margin-top: 100px;
+    border-style: solid;
+    border-color: chartreuse;
+    border-radius: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
 }
 
-.bg-color2 {
-    background-color: rgb(182, 219, 250);
+.container-bg {
+    background-color: yellow;
+}
+
+.my-font {
+    font-family: "Noto Sans Thai", sans-serif;
 }
